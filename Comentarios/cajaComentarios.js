@@ -37,7 +37,7 @@ function comentarios() {
   cloud.className = "comment__cloud";
   cloud.innerHTML = "<strong class='comment__name'>" + name + "</strong>" + coment;
 
-  document.querySelector(".imgBackround").appendChild(cloud);
+ document.querySelector(".imgBackground").appendChild(cloud);
 
   let cloudWidth = cloud.offsetWidth;
   let cloudHeight = cloud.offsetHeight;
@@ -47,5 +47,5 @@ function comentarios() {
   cloud.style.top = pos.y + "px";
 
   document.getElementById("myForm").reset();
-  
+
 }
