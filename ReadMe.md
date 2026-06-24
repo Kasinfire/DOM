@@ -4,7 +4,8 @@ Colección de proyectos pequeños hechos con JavaScript puro (Vanilla JS) para p
 
 ## 🗁 Proyectos
 
-### ⛈ Caja de Comentarios
+### ⛈ Caja de Comentarios  [**˗ˏˋ ★click aquí★ ˎˊ˗** ](https://dom-blush-gamma.vercel.app/)
+
 
 Una pequeño lugar donde los usuarios dejan comentarios que aparecen como nubes flotantes distribuidas aleatoriamente por la pantalla.
 
@@ -29,8 +30,9 @@ caja-comentarios/
 ├── cajaComentarios.js
 └── assets/
 ```
-**(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ Link** 
-[Comentarios](https://dom-blush-gamma.vercel.app/)
+
+![Vista del la página](Comentarios/assets/image.png)
+(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ [**Link** ](https://dom-blush-gamma.vercel.app/)
 
 
 ---
